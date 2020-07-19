@@ -30,7 +30,7 @@ def add_movie(name, release_date, starring):
     Query all rows in the MOVIE table
     :param conn: the Connection object
     :return:
-    """    
+    """   
     conn = None
     
     try:
